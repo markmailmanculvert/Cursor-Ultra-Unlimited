@@ -1,0 +1,23 @@
+{
+  "repo": "cursor-ultra-unlimited",
+  "product": "Cursor Ultra Unlimited",
+  "kind": "developer",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "code-editor",
+  "topics": [
+    "cursor-editor",
+    "ai-code-workspace",
+    "repo-chat-desktop",
+    "cursor-windows",
+    "pair-programming-2026",
+    "how-to-install-cursor",
+    "cursor-desktop-package",
+    "inline-edit-suite",
+    "developer-studio-build",
+    "cursor-pro-edition"
+  ],
+  "site": "toolix.me"
+}
